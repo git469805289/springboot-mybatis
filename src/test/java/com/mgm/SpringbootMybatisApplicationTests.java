@@ -21,6 +21,7 @@ class SpringbootMybatisApplicationTests {
     void contextLoads() throws SQLException {
 
         System.out.println("A Test");
+        System.out.println("B Test");
 
     }
 
