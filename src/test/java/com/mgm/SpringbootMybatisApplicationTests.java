@@ -20,7 +20,7 @@ class SpringbootMybatisApplicationTests {
     @Test
     void contextLoads() throws SQLException {
 
-
+        System.out.println("first branch A");
 
     }
 
